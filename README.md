@@ -14,6 +14,7 @@ This is the very first project of mine in the concept of machine learning, in su
 - Found 2 rows that have null values, since the null rows are just 2 I have dropped these columns which don't affect the data
 - Since there are categorical values in Educational Levels we must convert them into numeric data
 - Before converting the categorical data we must ensure that there is a positive influence on Salary by Education Level
+  ![Model Results](/salary vs education level.png)
 - Since the influence is linear between Salary and Education Level we can rank the Education Level with numerics
 
 ```python
