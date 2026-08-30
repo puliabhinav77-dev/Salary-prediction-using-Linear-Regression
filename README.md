@@ -62,6 +62,7 @@ This is the very first project of mine in the concept of machine learning, in su
   mse = mean_squared_error(y_test,y_pred)
   print(f'Mean Squared Error : {mse}')
   print(f'R^2 Score : {score}')
+  Output :
   Mean Absolute Error : 12699.34433502276
   Mean Squared Error : 314650189.85482186
   R^2 Score : 0.8581993242086992
