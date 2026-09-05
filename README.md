@@ -63,9 +63,9 @@ This is the very first project of mine in the concept of machine learning, in su
   print(f'Mean Squared Error : {mse}')
   print(f'R^2 Score : {score}')
   Output :
-  Mean Absolute Error : 12699.34433502276
-  Mean Squared Error : 314650189.85482186
-  R^2 Score : 0.8581993242086992
+  Mean Absolute Error : 11645.98252141388
+  Mean Squared Error : 272052635.9708203
+  R^2 Score : 0.877396394868643
 ```
 - Prediction analysis based on salary feature
   ```python
